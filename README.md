@@ -9,7 +9,7 @@ Life long learner who loves a challenge. After graduating from the University of
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [RyleyHynes@gmail.com](mailto:RyleyHynes@gmail.com)
 * 🧠  I'm learning Python and Django
-* 🤝  I'm open to collaborating on I'm open to collaborating on Python or ReactJS Projects
+* 🤝  I'm open to collaborating on Python or ReactJS Projects
 
 ### Skills
 
