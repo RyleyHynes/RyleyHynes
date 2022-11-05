@@ -4,11 +4,13 @@ Hi 👋 My name is Ryley Hynes
 Full-Stack Web Developer
 ------------------------
 
-Life long learner who loves a challenge. After graduating from the University of Tennessee Knoxville I worked as an Environmental Scientist for 3 years. Unfulfilled in my last role I decided to make the switch to software development and it has been the best decision I have ever made!
+Before going into software development, I worked as an Environmental Scientist for the State of Tennessee. This opportunity allowed me to work with the public to solve problems that endangered the health of our state. While in the field I was able to see just how beneficial technology was when dealing with environmental issues. From this experience I knew that I wanted to further my education in software development in hopes of solving problems that negatively impact our community.
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [RyleyHynes@gmail.com](mailto:RyleyHynes@gmail.com)
-* 🧠  I'm learning Python and Django
+* 🎓  Nashville Software School Graduate
+* 🎓  University of Tennessee, Knoxville Graduate
+* 🧠  I am currently strengthening my Full Stack Web Development skills
 * 🤝  I'm open to collaborating on Python or ReactJS Projects
 
 ### Skills
