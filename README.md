@@ -10,7 +10,7 @@ Before going into software development, I worked as an Environmental Scientist f
 * ✉️  You can contact me at [RyleyHynes@gmail.com](mailto:RyleyHynes@gmail.com)
 * 🎓  Nashville Software School Graduate
 * 🎓  University of Tennessee, Knoxville Graduate
-* 🧠  I am currently strengthening my Full Stack Web Development skills
+* 🧠   I am currently strengthening my Full Stack Web Development skills
 * 🤝  I'm open to collaborating on Python or ReactJS Projects
 
 ### Skills
