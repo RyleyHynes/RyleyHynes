@@ -4,7 +4,7 @@ Hi 👋 My name is Ryley Hynes
 Full-Stack Web Developer
 ------------------------
 
-Before going into software development, I worked as an Environmental Scientist for the State of Tennessee. This opportunity allowed me to work with the public to solve problems that endangered the health of our state. While in the field I was able to see just how beneficial technology was when dealing with environmental issues. From this experience I knew that I wanted to further my education in software development in hopes of solving problems that negatively impact our community.
+With a solid foundation in environmental science, I felt the need to take on a new challenge and pursue software development. This journey led me to Nashville Software School, where I strengthened my technical competencies. Post-graduation, I accepted an offer with HCA as an Application Engineer Technical Resident, a role that combined my scientific foundation with new software skills. Currently, I support four different applications, demonstrating consistent performance and dedication to my role. 
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [RyleyHynes@gmail.com](mailto:RyleyHynes@gmail.com)
